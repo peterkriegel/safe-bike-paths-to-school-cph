@@ -1,3 +1,19 @@
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+
+# macOS junk files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Processed data (large files / generated files)
+data/processed/
+
+# Temporary Excel files
+~$*.xlsx
