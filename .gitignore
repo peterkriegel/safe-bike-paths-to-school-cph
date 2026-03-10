@@ -15,5 +15,14 @@ __pycache__/
 # Processed data (large files / generated files)
 data/processed/
 
+# Raw datasets (large files)
+data/raw/
+
+# Interim data
+data/interim/
+
+# Notebook cache
+notebooks/cache
+
 # Temporary Excel files
 ~$*.xlsx
