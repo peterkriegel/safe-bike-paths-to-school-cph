@@ -34,7 +34,7 @@ Run the notebooks in the following order:
 
 Running the following notebooks are optional:
 
-7. '02_voronoi_school_allocation_visualisation.ipynb' 
+7. `02_voronoi_school_allocation_visualisation.ipynb`
 
 ---
 
