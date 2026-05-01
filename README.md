@@ -17,6 +17,7 @@ safe-school-paths-cph/
 │   ├── raw/
 │   └── processed/
 ├── README.md
+```
 
 ## Notebooks
 
@@ -29,7 +30,7 @@ Run the notebooks in the following order:
 5. `05_route_compute.ipynb`
 6. `06_accessibility_analysis.ipynb`
 
-###Optional
+### Optional
 
 Running the following notebooks are optional:
 
